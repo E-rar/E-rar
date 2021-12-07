@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on web apps
-- 🌱 I’m currently learning NodeJS and MongoDB
+- 🌱 I’m currently learning Typescript
 - 📫 How to reach me: https://www.linkedin.com/in/erik-ramich/
 - ⚡ Fun fact: I’m a person who laughs often and loud
 
